@@ -5,7 +5,7 @@ EJ:
 
 <ul>
 <li>Category A</li>
-<li>Category A > Category B, Category A<li>
-<li>Category A > Category B > Category C, Category A > Category B, Category A<li>
-<li>...<li>
+<li>Category A > Category B, Category A</li>
+<li>Category A > Category B > Category C, Category A > Category B, Category A</li>
+<li>...</li>
 <ul>
